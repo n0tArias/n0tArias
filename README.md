@@ -42,7 +42,8 @@
   </tr>
 </table>
 
-## 
+## Contact me 💻
+
 ### Have fun checking my profile 🤩
 <!--
 www.linkedin.com/in/alejandro-arias-971bb0232
