@@ -8,7 +8,11 @@
 
 🌱 I love learning new things!
 
-### Other stuff
+#### Have fun checking my profile 🤩
+
+##
+
+#### Other stuff
 
 📖 You can find some school projects in my profile, as well as some other personal projects
 
@@ -31,6 +35,7 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
+&emsp;
 <table align="center">
   <tr>
     <td width="50%">
@@ -42,10 +47,9 @@
   </tr>
 </table>
 
-## Contact me 💻
+## 
 
-### Have fun checking my profile 🤩
-<!--
-www.linkedin.com/in/alejandro-arias-971bb0232
-https://www.instagram.com/not._.arias/
--->
+### Contact me 💻
+
+&nbsp; <a aligh="left" href="https://www.linkedin.com/in/n0tArias/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg" alt="LinkedIn" width="32" height="32"/></a> &nbsp; <a aligh="left" href="http://instagram.com/n0tArias" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/instagram.svg" alt="Instagram" width="32" height="32" /></a>
+
