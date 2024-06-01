@@ -3,7 +3,9 @@
 ## About me 🚀
 
 ✈️ I'm a Computer Engineering student at [Facultad de Ingeniería UNAM](https://www.ingenieria.unam.mx/)
+
 👾 I'm interested in Coding, Videogames and Music
+
 🌱 I love learning new things!
 
 ### Other stuff
