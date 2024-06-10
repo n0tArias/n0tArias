@@ -51,5 +51,5 @@
 
 ### Contact me 💻
 
-&nbsp; <a aligh="left" href="https://www.linkedin.com/in/n0tArias/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg" alt="LinkedIn" width="32" height="32"/></a> &nbsp; <a aligh="left" href="http://instagram.com/n0tArias" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/instagram.svg" alt="Instagram" width="32" height="32" /></a>
+&nbsp; <a aligh="left" href="https://www.linkedin.com/in/n0tArias/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg" alt="LinkedIn" width="32" height="32"/></a> &nbsp; <a aligh="left" href="http://instagram.com/not._.arias" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/instagram.svg" alt="Instagram" width="32" height="32" /></a>
 
